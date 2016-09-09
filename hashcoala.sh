@@ -1,4 +1,5 @@
 #!/bin/bash
+#CODADO BY C0ALA <3 
 
 clear
 
